@@ -27,10 +27,16 @@
 #work(
   company: "ASUS Robotics & AI Center",
   location: "Taipei City, Taiwan",
-  title: "Robotics Software Engineer",
-  dates: dates-helper(start-date: "Feb 2025", end-date: "Present"),
+  title: "Systems Engineer",
+  dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
 )
 - Architected a distributed, asynchronous messaging framework using Rust and C++ for dynamic autonomous systems.
+
+#work(
+  title: "Computer Vision Engineer",
+  dates: dates-helper(start-date: "Feb 2025", end-date: "Jul 2025"),
+  append_prev: true,
+)
 - Researched, designed and implemented an efficient VIO system for real-time localization and control.
 
 #work(
